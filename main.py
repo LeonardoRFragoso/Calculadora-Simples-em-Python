@@ -68,5 +68,4 @@ while True:
     if continuar == 's':
         os.system('cls')
         continue
-
     break
