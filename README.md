@@ -4,8 +4,8 @@
 Calculadora Simples em Python onde é possivel fazer operações de :
 <br>
 
-Adição
-Subtração
-Multiplicação
-Divisão
+Adição<br>
+Subtração<br>
+Multiplicação<br>
+Divisão<br>
 Potenciação
